@@ -6,7 +6,7 @@ A collection of my solutions to Data Structures & Algorithms problems solved acr
 
 ## Languages
 
-- Java
+- C++
 - Python (occasionally)
 
 ---
@@ -63,34 +63,12 @@ A collection of my solutions to Data Structures & Algorithms problems solved acr
 
 ---
 
-## Repository Structure
-
-```
-DSA/
-│
-├── Arrays/
-├── Strings/
-├── Linked Lists/
-├── Stacks/
-├── Queues/
-├── Trees/
-├── Graphs/
-├── Dynamic Programming/
-├── Greedy/
-├── Binary Search/
-├── Heaps/
-├── Hashing/
-└── Recursion/
-```
 
 ---
 
 ## Problem Sources
 
 - LeetCode
-- GeeksforGeeks
-- CodeStudio
-- HackerRank
 
 ---
 
